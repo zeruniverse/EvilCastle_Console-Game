@@ -1,0 +1,26 @@
+﻿生成启动时间为 2013/11/15 15:11:17。
+     1>项目“F:\OOP\EvilCastle\EvilCastle\EvilCastle.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Microsoft Visual Studio 11.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc110.pdb" /Gd /TP /analyze- /errorReport:prompt monster.cpp mymap.cpp shield.cpp
+         shield.cpp
+         mymap.cpp
+         monster.cpp
+         正在生成代码...
+       Link:
+         D:\Microsoft Visual Studio 11.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"F:\OOP\EvilCastle\Debug\EvilCastle.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"F:\OOP\EvilCastle\Debug\EvilCastle.pdb" /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"F:\OOP\EvilCastle\Debug\EvilCastle.lib" /MACHINE:X86 Debug\achievement.obj
+         Debug\hero.obj
+         Debug\information.obj
+         Debug\main.obj
+         Debug\mymap.obj
+         Debug\message.obj
+         Debug\monster.obj
+         Debug\room.obj
+         Debug\shield.obj
+         Debug\shoe.obj
+         Debug\weapon.obj
+         EvilCastle.vcxproj -> F:\OOP\EvilCastle\Debug\EvilCastle.exe
+     1>已完成生成项目“F:\OOP\EvilCastle\EvilCastle\EvilCastle.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.28
