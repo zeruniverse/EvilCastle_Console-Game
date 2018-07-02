@@ -13,8 +13,11 @@ Use the following command to compile and run:
 git clone https://github.com/zeruniverse/EvilCastle_Console-Game.git
 
 # compile the game
+cd EvilCastle_Console-Game
 g++ -o game *.cpp
 
 # play
 ./game
 ```
+
+For Windows version (compiled in Visual Studio), checkout the `windows` branch.
