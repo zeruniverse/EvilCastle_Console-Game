@@ -12,9 +12,6 @@ Use the following command to compile and run:
 ```bash
 git clone https://github.com/zeruniverse/EvilCastle_Console-Game.git
 
-# checkout the linux branch.
-git checkout linux
-
 # compile the game
 g++ -o game *.cpp
 
